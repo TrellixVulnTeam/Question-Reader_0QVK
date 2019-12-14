@@ -1,4 +1,4 @@
 # Question-Reader
-Export Quizlet with \n between lines and \n between terms/definitions \n
-Copy into text file \n
+Export Quizlet with \n between lines and \n between terms/definitions
+Copy into text file
 Profit
